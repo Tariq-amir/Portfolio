@@ -1,0 +1,19 @@
+body{
+    font-family: 'Eczar', serif;
+    background-color: rgb(236, 210, 210);
+}
+
+.name-highlight{
+    color: red;
+}
+
+.intro{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+
+}
+
+.intro img{
+    width: 100%;
+}
